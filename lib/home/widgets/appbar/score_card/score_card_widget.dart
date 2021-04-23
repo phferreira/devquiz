@@ -10,7 +10,7 @@ class ScoreCardWidget extends StatelessWidget {
       child: Container(
         height: 136,
         decoration: BoxDecoration(
-            color: AppColors.border,
+            color: AppColors.white,
             borderRadius: BorderRadius.circular(15),
         ),
         child: Padding(

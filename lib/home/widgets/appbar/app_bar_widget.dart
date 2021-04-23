@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class AppBarWidget extends PreferredSize {
   AppBarWidget() : super(
-    preferredSize: Size.fromHeight(200),
+    preferredSize: Size.fromHeight(150),
     child: Container(
       height: 250,
       decoration: BoxDecoration(
